@@ -20,3 +20,7 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+---
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2e935e91-ebdd-4045-8836-9d3b564a5a30/deploy-status)](https://app.netlify.com/sites/cocky-feynman-1df19f/deploys)

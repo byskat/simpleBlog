@@ -101,7 +101,7 @@
                 <div class="flex items-center justify-between inset-x-0 bottom-0 p-6">
                   <img
                     class="w-8 h-8 rounded-full mr-4"
-                    src="http://i.pravatar.cc/300"
+                    src="https://i.pravatar.cc/300"
                     alt="Avatar of Author"
                   />
                   <p class="text-gray-600 text-xs md:text-sm">2 MIN READ</p>
@@ -128,7 +128,7 @@
                 <div class="flex items-center justify-between inset-x-0 bottom-0 p-6">
                   <img
                     class="w-8 h-8 rounded-full mr-4"
-                    src="http://i.pravatar.cc/300"
+                    src="https://i.pravatar.cc/300"
                     alt="Avatar of Author"
                   />
                   <p class="text-gray-600 text-xs md:text-sm">4 MIN READ</p>
@@ -157,7 +157,7 @@
                 <div class="flex items-center justify-between inset-x-0 bottom-0 p-6">
                   <img
                     class="w-8 h-8 rounded-full mr-4"
-                    src="http://i.pravatar.cc/300"
+                    src="https://i.pravatar.cc/300"
                     alt="Avatar of Author"
                   />
                   <p class="text-gray-600 text-xs md:text-sm">7 MIN READ</p>

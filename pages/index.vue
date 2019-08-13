@@ -126,7 +126,7 @@
               <img
                 class="w-8 h-8 rounded-full mr-4 avatar"
                 data-tippy-content="Author Name"
-                src="http://i.pravatar.cc/300"
+                src="https://i.pravatar.cc/300"
                 alt="Avatar of Author"
                 tabindex="0"
               />
@@ -157,7 +157,7 @@
               <img
                 class="w-8 h-8 rounded-full mr-4 avatar"
                 data-tippy-content="Author Name"
-                src="http://i.pravatar.cc/300"
+                src="https://i.pravatar.cc/300"
                 alt="Avatar of Author"
                 tabindex="0"
               />
@@ -188,7 +188,7 @@
               <img
                 class="w-8 h-8 rounded-full mr-4 avatar"
                 data-tippy-content="Author Name"
-                src="http://i.pravatar.cc/300"
+                src="https://i.pravatar.cc/300"
                 alt="Avatar of Author"
                 tabindex="0"
               />
@@ -219,7 +219,7 @@
               <img
                 class="w-8 h-8 rounded-full mr-4 avatar"
                 data-tippy-content="Author Name"
-                src="http://i.pravatar.cc/300"
+                src="https://i.pravatar.cc/300"
                 alt="Avatar of Author"
                 tabindex="0"
               />
@@ -250,7 +250,7 @@
               <img
                 class="w-8 h-8 rounded-full mr-4 avatar"
                 data-tippy-content="Author Name"
-                src="http://i.pravatar.cc/300"
+                src="https://i.pravatar.cc/300"
                 alt="Avatar of Author"
                 tabindex="0"
               />
@@ -281,7 +281,7 @@
               <img
                 class="w-8 h-8 rounded-full mr-4 avatar"
                 data-tippy-content="Author Name"
-                src="http://i.pravatar.cc/300"
+                src="https://i.pravatar.cc/300"
                 alt="Avatar of Author"
                 tabindex="0"
               />
@@ -312,7 +312,7 @@
               <img
                 class="w-8 h-8 rounded-full mr-4 avatar"
                 data-tippy-content="Author Name"
-                src="http://i.pravatar.cc/300"
+                src="https://i.pravatar.cc/300"
                 alt="Avatar of Author"
                 tabindex="0"
               />

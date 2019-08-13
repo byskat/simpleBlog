@@ -1,7 +1,7 @@
 <template>
   <!--Author-->
   <div class="flex w-full items-center font-sans p-8 md:p-24">
-    <img class="w-10 h-10 rounded-full mr-4" src="http://i.pravatar.cc/300" alt="Avatar of Author" />
+    <img class="w-10 h-10 rounded-full mr-4" src="https://i.pravatar.cc/300" alt="Avatar of Author" />
     <div class="flex-1">
       <p class="text-base font-bold text-base md:text-xl leading-none">Ghostwind CSS</p>
       <p class="text-gray-600 text-xs md:text-base">

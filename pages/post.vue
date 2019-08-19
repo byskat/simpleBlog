@@ -30,38 +30,73 @@
             <a
               class="text-gray-800 hover:text-teal-500 no-underline border-b-2 border-teal-500"
               href="https://www.tailwindcss.com"
-            >Tailwind CSS</a> and
+            >Tailwind CSS</a>
+            and
             <a
               class="text-gray-800 hover:text-teal-500 no-underline border-b-2 border-teal-500"
               href="https://www.ghost.org"
-            >Ghost</a> fan. This starter template is an attempt to replicate the default Ghost theme
+            >Ghost</a>
+            fan. This starter template is an attempt to replicate the default
+            Ghost theme
             <a
               class="text-gray-800 hover:text-teal-500 no-underline border-b-2 border-teal-500"
               href="https://demo.ghost.io/welcome"
-            >"Casper"</a> using Tailwind CSS and vanilla Javascript.
+            >"Casper"</a>
+            using Tailwind CSS and vanilla Javascript.
           </p>
 
-          <p
-            class="py-6"
-          >The basic blog page layout is available and all using the default Tailwind CSS classes (although there are a few hardcoded style tags). If you are going to use this in your project, you will want to convert the classes into components.</p>
+          <p class="py-6">
+            The basic blog page layout is available and all using the default
+            Tailwind CSS classes (although there are a few hardcoded style
+            tags). If you are going to use this in your project, you will want
+            to convert the classes into components.
+          </p>
 
-          <p
-            class="py-6"
-          >Sed dignissim lectus ut tincidunt vulputate. Fusce tincidunt lacus purus, in mattis tortor sollicitudin pretium. Phasellus at diam posuere, scelerisque nisl sit amet, tincidunt urna. Cras nisi diam, pulvinar ut molestie eget, eleifend ac magna. Sed at lorem condimentum, dignissim lorem eu, blandit massa. Phasellus eleifend turpis vel erat bibendum scelerisque. Maecenas id risus dictum, rhoncus odio vitae, maximus purus. Etiam efficitur dolor in dolor molestie ornare. Aenean pulvinar diam nec neque tincidunt, vitae molestie quam fermentum. Donec ac pretium diam. Suspendisse sed odio risus. Nunc nec luctus nisi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis nec nulla eget sem dictum elementum.</p>
+          <p class="py-6">
+            <!--cSpell:disable -->
+            Sed dignissim lectus ut tincidunt vulputate. Fusce tincidunt lacus
+            purus, in mattis tortor sollicitudin pretium. Phasellus at diam
+            posuere, scelerisque nisl sit amet, tincidunt urna. Cras nisi diam,
+            pulvinar ut molestie eget, eleifend ac magna. Sed at lorem
+            condimentum, dignissim lorem eu, blandit massa. Phasellus eleifend
+            turpis vel erat bibendum scelerisque. Maecenas id risus dictum,
+            rhoncus odio vitae, maximus purus. Etiam efficitur dolor in dolor
+            molestie ornare. Aenean pulvinar diam nec neque tincidunt, vitae
+            molestie quam fermentum. Donec ac pretium diam. Suspendisse sed odio
+            risus. Nunc nec luctus nisi. Class aptent taciti sociosqu ad litora
+            torquent per conubia nostra, per inceptos himenaeos. Duis nec nulla
+            eget sem dictum elementum.
+          </p>
 
-          <p
-            class="py-3"
-          >Maecenas accumsan lacus sit amet elementum porta. Aliquam eu libero lectus. Fusce vehicula dictum mi. In non dolor at sem ullamcorper venenatis ut sed dui. Ut ut est quam. Suspendisse quam quam, commodo sit amet placerat in, interdum a ipsum. Morbi sit amet tellus scelerisque tortor semper posuere.</p>
-          <p
-            class="py-3"
-          >Morbi varius posuere blandit. Praesent gravida bibendum neque eget commodo. Duis auctor ornare mauris, eu accumsan odio viverra in. Proin sagittis maximus pharetra. Nullam lorem mauris, faucibus ut odio tempus, ultrices aliquet ex. Nam id quam eget ipsum luctus hendrerit. Ut eros magna, eleifend ac ornare vulputate, pretium nec felis.</p>
-          <p
-            class="py-3"
-          >Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nunc vitae pretium elit. Cras leo mauris, tristique in risus ac, tristique rutrum velit. Mauris accumsan tempor felis vitae gravida. Cras egestas convallis malesuada. Etiam ac ante id tortor vulputate pretium. Maecenas vel sapien suscipit, elementum odio et, consequat tellus.</p>
+          <p class="py-3">
+            Maecenas accumsan lacus sit amet elementum porta. Aliquam eu libero
+            lectus. Fusce vehicula dictum mi. In non dolor at sem ullamcorper
+            venenatis ut sed dui. Ut ut est quam. Suspendisse quam quam, commodo
+            sit amet placerat in, interdum a ipsum. Morbi sit amet tellus
+            scelerisque tortor semper posuere.
+          </p>
+          <p class="py-3">
+            Morbi varius posuere blandit. Praesent gravida bibendum neque eget
+            commodo. Duis auctor ornare mauris, eu accumsan odio viverra in.
+            Proin sagittis maximus pharetra. Nullam lorem mauris, faucibus ut
+            odio tempus, ultrices aliquet ex. Nam id quam eget ipsum luctus
+            hendrerit. Ut eros magna, eleifend ac ornare vulputate, pretium nec
+            felis.
+          </p>
+          <p class="py-3">
+            Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+            posuere cubilia Curae; Nunc vitae pretium elit. Cras leo mauris,
+            tristique in risus ac, tristique rutrum velit. Mauris accumsan
+            tempor felis vitae gravida. Cras egestas convallis malesuada. Etiam
+            ac ante id tortor vulputate pretium. Maecenas vel sapien suscipit,
+            elementum odio et, consequat tellus.
+          </p>
 
-          <blockquote
-            class="border-l-4 border-teal-500 italic my-8 pl-8 md:pl-12"
-          >Example of blockquote - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.</blockquote>
+          <blockquote class="border-l-4 border-teal-500 italic my-8 pl-8 md:pl-12">
+            Example of blockquote - Lorem ipsum dolor sit amet, consectetur
+            adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit
+            amet ligula.
+          </blockquote>
 
           <p class="py-6">Example code block:</p>
           <pre class="bg-gray-900 rounded text-white font-mono text-base p-4">
@@ -94,9 +129,10 @@
                 <div class="p-6 h-auto md:h-48">
                   <p class="text-gray-600 text-xs md:text-sm">GETTING STARTED</p>
                   <div class="font-bold text-xl text-gray-900">Lorem ipsum dolor sit amet.</div>
-                  <p
-                    class="text-gray-800 font-serif text-base mb-5"
-                  >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.</p>
+                  <p class="text-gray-800 font-serif text-base mb-5">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                    Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.
+                  </p>
                 </div>
                 <div class="flex items-center justify-between inset-x-0 bottom-0 p-6">
                   <img
@@ -121,9 +157,10 @@
                 <div class="p-6 h-auto md:h-48">
                   <p class="text-gray-600 text-xs md:text-sm">UNDERWATER</p>
                   <div class="font-bold text-xl text-gray-900">Biolumini algae diatomeae ecology.</div>
-                  <p
-                    class="text-gray-800 font-serif text-base mb-5"
-                  >Lorem ipsum dolor sit. Aliquam at ipsum eu nunc commodo posuere et sit amet ligula.</p>
+                  <p class="text-gray-800 font-serif text-base mb-5">
+                    Lorem ipsum dolor sit. Aliquam at ipsum eu nunc commodo
+                    posuere et sit amet ligula.
+                  </p>
                 </div>
                 <div class="flex items-center justify-between inset-x-0 bottom-0 p-6">
                   <img
@@ -150,9 +187,11 @@
                   <div
                     class="font-bold text-xl text-gray-900"
                   >What is life but a teardrop in the eye of infinity?</div>
-                  <p
-                    class="text-gray-800 font-serif text-base mb-5"
-                  >Mollis pretium integer eros et dui orci, lectus nec elit sagittis neque. Dignissim ac nullam semper aliquet volutpat, ut scelerisque.</p>
+                  <p class="text-gray-800 font-serif text-base mb-5">
+                    Mollis pretium integer eros et dui orci, lectus nec elit
+                    sagittis neque. Dignissim ac nullam semper aliquet volutpat,
+                    ut scelerisque.
+                  </p>
                 </div>
                 <div class="flex items-center justify-between inset-x-0 bottom-0 p-6">
                   <img
@@ -189,6 +228,4 @@ export default {
 }
 </script>
 
-<style scoped>
-</style>
-
+<style scoped></style>

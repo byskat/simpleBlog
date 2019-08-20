@@ -6,10 +6,10 @@
         <div class="flex w-1/2 pl-4 text-sm">
           <ul class="list-reset flex justify-between flex-1 md:flex-none items-center">
             <li class="mr-2">
-              <a
+              <nuxt-link
                 class="inline-block py-2 px-2 text-white no-underline hover:underline"
-                href="post.html"
-              >POST</a>
+                to="/posts"
+              >ALL POSTS</nuxt-link>
             </li>
             <li class="mr-2">
               <a
